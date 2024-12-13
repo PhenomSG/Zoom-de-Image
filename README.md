@@ -1,6 +1,6 @@
 # Zoom de Image
 
-![Zoom de Image](https://via.placeholder.com/728x90.png?text=Zoom+de+Image) <!-- Replace with actual banner or logo if available -->
+<img src="n1.jpg" alt="Screenshot 1" width="300">
 
 ## Overview
 
@@ -38,8 +38,9 @@
 
 ## Screenshots
 
-![Screenshot 1](https://via.placeholder.com/300x600.png?text=App+Screenshot+1) <!-- Replace with actual screenshots -->
-![Screenshot 2](https://via.placeholder.com/300x600.png?text=App+Screenshot+2)
+<img src="n2.jpg" alt="Screenshot 2" width="300">
+<img src="n3.jpg" alt="Screenshot 3" width="300">
+<img src="n4.jpg" alt="Screenshot 4" width="300">
 
 ## Technologies Used
 
