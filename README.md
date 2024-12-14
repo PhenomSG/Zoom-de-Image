@@ -42,6 +42,9 @@
 <img src="n3.jpg" alt="Screenshot 3" width="300">
 <img src="n4.jpg" alt="Screenshot 4" width="300">
 
+## System Design
+<img src="system_design.png" alt="Screenshot 5" width="300">
+
 ## Technologies Used
 
 - **Programming Language**: Java
